@@ -1,7 +1,8 @@
-# health_balance
+# health_balance 
 
 A new Flutter project.
 
+main.dart file is located in /lib Folder
 ## Getting Started
 
 This project is a starting point for a Flutter application.
